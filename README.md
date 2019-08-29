@@ -1,10 +1,9 @@
-# Lumen Community RFCs
+# Lumen RFCs
 
 Request for Comment for community Lumen projects
 
 ## What this not
 
-* RFCs for any chnages that would affect Lumen core projects. Please use the [rfcs-core](github.com/lumen/rfcs-core) repo for those requests for comment. Depending upon how discussions in this repo evolve they may need to move over to the core RFCs repo at some point and vice versa.
 * RFCs for changes to *existing* Lumen community projects. You should open issues in those specific project repos rather than discuss feature requests, bugs, vision, etc... of existing projects here.
 
 ## What this is
