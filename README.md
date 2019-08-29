@@ -1,6 +1,6 @@
 # Lumen RFCs
 
-Request for Comment for community Lumen projects
+Request for Comment for Lumen
 
 ## What this not
 
